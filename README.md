@@ -81,7 +81,7 @@ wsl --set-default-version 2
    ```sh
    chsh -s /bin/zsh
    ```
-
+   Then restart your terminal
    If prompted to select a configuration file, press `q`.
 
 3. Install Oh My Zsh:
